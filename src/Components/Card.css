@@ -1,0 +1,23 @@
+.img{
+   border: 1px solid white;
+   border-radius: 50%;
+   width: 70px;
+   margin-top: 50px;
+   
+   
+}
+
+.cont{
+    border: 1px solid  black;
+    box-shadow: 2px  1px 12px 0px;
+    width: 250px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+.tit title{
+    text-align: center;
+}
